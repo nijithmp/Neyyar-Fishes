@@ -229,13 +229,13 @@ nav.cl-effect-13 a {
 }
 .banner-info1-grid h3{
 	font-size: 2em;
-    color: #fff;
+    color:#ffffff ;
     margin: 1em 0 .5em;
     text-transform: capitalize;
 }
 .banner-info1-grid p{
 	font-size:14px;
-	color:#FFF;
+	color:rgb(253, 253, 253);
 	line-height:1.8em;
 	margin:0 auto;
 	width:80%;
